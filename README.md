@@ -24,18 +24,21 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" width="40" />
 
 
-## Contatos:
-
-
-<div>
-<a href="https://github.com/anaantonelo-dev">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaantonelo-dev&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anaantonelo-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## Contatos:ooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anaantonelo-dev&&theme=tokyonight" alt="anaclaraantonelo" /></p>
+
+![Snake animation](https://github.com/anaantonelo-dev/anaantonelo-dev/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+
 <!--
 **anaantonelo-dev/anaantonelo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
